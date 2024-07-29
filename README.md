@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# Xcrypto
+
+Welcome to Xcrypto, your one-stop destination for all things cryptocurrency! Whether you're a seasoned crypto trader or just dipping your toes into the world of digital assets, our platform is designed to provide you with up-to-the-minute information on cryptocurrency prices and a comprehensive guide to various crypto exchange apps.
+
+## Features
+
+- **Real-Time Cryptocurrency Data**: Stay updated with the latest cryptocurrency prices and market trends using the CoinGecko API.
+- **Crypto Exchange Guides**: Explore detailed guides on various cryptocurrency exchange apps to find the one that best suits your needs.
+- **User-Friendly Interface**: Navigate easily through our intuitive and responsive design.
+
+## Tech Stack
+
+- **Frontend**: React, Tailwind CSS
+- **API**: CoinGecko API
+- **State Management**: Redux
+- **Styling**: Tailwind CSS
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
