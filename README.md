@@ -2,6 +2,8 @@
 
 Welcome to Xcrypto, your one-stop destination for all things cryptocurrency! Whether you're a seasoned crypto trader or just dipping your toes into the world of digital assets, our platform is designed to provide you with up-to-the-minute information on cryptocurrency prices and a comprehensive guide to various crypto exchange apps.
 
+Deployed Link :- [https://x-crypto0.netlify.app/](https://x-crypto0.netlify.app/)
+
 ## Features
 
 - **Real-Time Cryptocurrency Data**: Stay updated with the latest cryptocurrency prices and market trends using the CoinGecko API.
