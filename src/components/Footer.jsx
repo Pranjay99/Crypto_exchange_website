@@ -19,14 +19,13 @@ const Footer = () => {
             letterSpacing={"widest"}
             textAlign={["center", "left"]}
           >
-            We are the best crypto trading app in India, we provide our guidance
-            at a very cheap price.
+           Stay informed and make smarter decisions with Xcrypto, your comprehensive source for real-time cryptocurrency data and in-depth guides to the best crypto exchange platforms.
           </Text>
         </VStack>
 
         <VStack>
-          <Avatar boxSize={"28"} mt={["4", "0"]} />
-          <Text>Our Founder</Text>
+          <Avatar boxSize={"28"} mt={["4", "0"] src = "https://i.imgur.com/E5kxgmH.png"}  />
+          <Text>Pranjay Seksaria</Text>
         </VStack>
       </Stack>
     </Box>
