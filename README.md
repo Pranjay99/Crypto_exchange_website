@@ -7,7 +7,12 @@ Deployed Link :- [https://x-crypto0.netlify.app/](https://x-crypto0.netlify.app/
 ## Features
 
 - **Real-Time Cryptocurrency Data**: Stay updated with the latest cryptocurrency prices and market trends using the CoinGecko API.
+![image](https://i.imgur.com/WzItFln.png)
+![image](https://i.imgur.com/EqlYxa2.png)
+
 - **Crypto Exchange Guides**: Explore detailed guides on various cryptocurrency exchange apps to find the one that best suits your needs.
+  ![image](https://i.imgur.com/SXydYes.png)
+
 - **User-Friendly Interface**: Navigate easily through our intuitive and responsive design.
 
 ## Tech Stack
